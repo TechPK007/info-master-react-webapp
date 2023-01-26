@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Navbar.css'
 import { Link, useLocation } from 'react-router-dom';
-import { Button } from 'bootstrap';
 
 const Navbar = () => {
     const [activeLink, setActiveLink] = useState(null);
@@ -38,7 +37,7 @@ const Navbar = () => {
                             </li>
                         </ul>
                     </div>
-                    <button style={{ marginRight: "8.5%", fontWeight: 'bolder' }} className='btn btn-secondary btn-md'>Add Student</button>
+                    <button style={{ marginRight: "8.5%", fontWeight: 'bolder',color:"black" }}  className='btn btn-outline-light btn-sm'><Link to="/users/add" style={{color:"navy",textDecoration:'none' }}>Add Student</Link></button>
                 </div>
             </nav>
         </div>
