@@ -1,0 +1,27 @@
+{
+    "users": [{
+            "id": 1,
+            "name": "Pavanesh Kumar",
+            "username": "TechyPK007",
+            "email": "techypk007@gmail.com"
+        },
+        {
+            "id": 1,
+            "name": "Pavanesh Kumar",
+            "username": "TechyPK007",
+            "email": "techypk007@gmail.com"
+        },
+        {
+            "id": 1,
+            "name": "Pavanesh Kumar",
+            "username": "TechyPK007",
+            "email": "techypk007@gmail.com"
+        },
+        {
+            "id": 1,
+            "name": "Pavanesh Kumar",
+            "username": "TechyPK007",
+            "email": "techypk007@gmail.com"
+        }
+    ]
+}

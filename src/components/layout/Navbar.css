@@ -1,0 +1,17 @@
+nav {
+    background-color: red;
+    color: white;
+}
+
+.active {
+    font-weight: bolder;
+}
+
+.nav-link:hover {
+    font-weight: bolder;
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
